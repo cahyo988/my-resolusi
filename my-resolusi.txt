@@ -1,5 +1,8 @@
-MY RESOLUSI
+
+Nama Saya Cahyo Saputra Fresh Graduate 2024
+MY RESOLUSI:
 - Konsisten Belajar React.js
 - Konsisten Membuat banyak project
 - Buat Payment Website
-- Belajar framework next js
+- Belajar framework next js-
+- Bekerja Remote setelah 6 bulan belajar konsisten
