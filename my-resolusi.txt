@@ -1,5 +1,4 @@
 MY RESOLUSI
 - Konsisten Belajar React.js
 - Konsisten Membuat banyak project
-- Belajar Next js kedepannya
 - Buat Payment Website
