@@ -2,3 +2,4 @@ MY RESOLUSI
 - Konsisten Belajar React.js
 - Konsisten Membuat banyak project
 - Buat Payment Website
+- Belajar framework next js
